@@ -1,0 +1,25 @@
+{
+  "name": "betterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcValentino/betterBot.git"
+  },
+  "author": "marcValentino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcValentino/betterBot/issues"
+  },
+  "homepage": "https://github.com/MarcValentino/betterBot#readme",
+  "dependencies": {
+    "aws-sdk": "^2.517.0"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^2.1.1"
+  }
+}
